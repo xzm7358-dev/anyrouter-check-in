@@ -263,7 +263,7 @@
 - `EMAIL_USER`: 发件人邮箱地址/STMP登录地址
 - `EMAIL_PASS`: 发件人邮箱密码/授权码
 - `EMAIL_SENDER`: 邮件显示的发件人地址(可选，默认: EMAIL_USER)
-- `CUSTOM_SMTP_SERVER`: 自定义发件人SMTP服务器(可选)
+- `CUSTOM_SMTP_SERVER`: 自定义发件人 SMTP服务器(可选)
 - `EMAIL_TO`: 收件人邮箱地址
 ### 钉钉机器人
 - `DINGDING_WEBHOOK`: 钉钉机器人的 Webhook 地址
