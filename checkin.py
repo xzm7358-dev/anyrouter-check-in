@@ -17,6 +17,7 @@ from playwright.async_api import async_playwright
 from utils.config import AccountConfig, AppConfig, load_accounts_config
 from utils.notify import notify
 
+
 load_dotenv()
 
 BALANCE_HASH_FILE = 'balance_hash.txt'
